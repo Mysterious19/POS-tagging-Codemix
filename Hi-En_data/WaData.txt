@@ -1,0 +1,3612 @@
+Happy	en	 J
+birthday	en	 N
+di	hi	 V
+
+Live	en	 V
+long	en	 J
+Ding	en	 N
+dong	en	 V
+
+Thnk	hi	 V
+u	hi	 PRP
+akki	hi	 N
+
+are	hi	 V
+
+Jage	en	 N
+hue	hi	 J
+ho	hi	 V
+
+So	hi	PSP
+gyi	hi	 N
+thi	hi	 V
+
+Abi	hi	 N
+uthi	hi	 N
+
+Bahut	hi	 N
+sahi	hi	 N
+
+ho	hi	 V
+
+Mai	hi	 N
+achhi	hi	 J
+
+sunnna	hi	 N
+
+Bas	hi	 X
+didi	hi	 N
+sab	hi	 SYM
+thk	hi	 X
+
+Haan	hi	U
+
+Agye	hi	 J
+tum	hi	 X
+log	hi	 N
+chennai	ne	 N
+se	hi	PSP
+
+Nahi	hi	 N
+didi	hi	 N
+wo	hi	 V
+log	hi	 N
+nahi	hi	 N
+aaye	hi	 N
+
+Abhi	hi	 N
+tak	hi	 X
+
+Tu	hi	 X
+ni	hi	 PRT
+gya	hi	 N
+
+Nai	hi	 PRP
+di	hi	 V
+
+Mandir	ne	 N
+gaya	hi	 N
+tha	hi	 X
+main	hi	 N
+Okkk	hi	U
+
+Or	hi	 X
+bdday	en	 N
+kaisa	hi	 N
+raha	hi	 N
+di	hi	 V
+
+Ofc	hi	 V
+me	hi	 PRP
+thi	hi	 V
+
+Ghr	hi	 N
+aayi	hi	 N
+jldi	hi	 N
+but	en	CC
+whi	hi	 PRP
+ghr	hi	 N
+pe	hi	PSP
+hun	hi	 V
+
+Are	hi	 V
+
+To	hi	PSP
+budday	en	 V
+gifts	hi	 N
+to	hi	PSP
+mil	hi	 N
+Hi	hi	 N
+gaye	hi	 N
+na	hi	 PRT
+aapke	hi	 N
+lill	en	 V
+bro	en	 V
+wale	hi	 N
+
+Haan	hi	U
+
+Mera	hi	 N
+
+Di	hi	 N
+namaskaramm	hi	 V
+
+Namashkar	hi	 N
+akki	hi	 N
+
+Kaisa	hi	 N
+hain	hi	 V
+
+Mast	hi	 J
+hun	hi	 V
+di	hi	 V
+
+Ghar	hi	 X
+aaya	hi	 N
+hu	hi	 V
+
+Abhi	hi	 N
+abhi	hi	 N
+nizamuddin	hi	 PRP
+pahucha	hi	 N
+
+Ghar	hi	 N
+ja	hi	 N
+ra	hi	PSP
+hu	hi	 V
+ab	hi	PSP
+bus	en	 N
+em	hi	 PRP
+
+Me	hi	 PRP
+
+Haan	hi	U
+
+Bhai	hi	 N
+ne	hi	PSP
+btaya	hi	 N
+
+Mera	hi	 N
+bhai	hi	 N
+bhi	hi	 N
+aa	hi	PSP
+jata	hi	 N
+
+Are	hi	 V
+bohot	hi	 N
+bola	hi	 N
+mene	hi	 V
+di	hi	 V
+usko	hi	 PRP
+ki	hi	 PRP
+chal	hi	 J
+Ek	hi	 X
+Hi	hi	 N
+tiket	ne	 V
+me	hi	 PRP
+ho	hi	 V
+jyga	hi	 N
+kam	hi	 X
+bhi	hi	 N
+Bolta	hi	 N
+ke	hi	 PRP
+project	en	 V
+karega	hi	 N
+
+na	hi	 PRT
+
+Maine	hi	 N
+bi	hi	 N
+bola	hi	 N
+
+Han	hi	 V
+woi	hi	 PRP
+to	hi	 PRT
+
+May	hi	 V
+this	en	DT
+season	en	 N
+of	hi	PSP
+color	hi	 N
+bring	en	 V
+you	en	 PRP
+cheer	en	 J
+and	en	CC
+happiness	en	 V
+May	hi	 V
+the	en	DT
+colors	hi	 N
+of	hi	PSP
+the	en	DT
+Holi	hi	 N
+continues	en	 N
+to	hi	PSP
+illuminate	en	 V
+your	en	DT
+life	ne	 N
+and	en	CC
+
+guide	en	 N
+you	en	 PRP
+towards	hi	 V
+the	en	DT
+path	univ	 N
+of	hi	PSP
+success	en	 N
+Happy	en	 J
+Holi	hi	 N
+
+kamine	hi	 N
+
+Hi	hi	 PRT
+Di	hi	 N
+
+Namaskaar	hi	 PRT
+
+
+
+baat	hi	 N
+na	hi	 PRT
+kr	hi	 X
+smjha	ne	 N
+
+
+Ye	hi	 PRP
+kya	hi	 J
+bomb	hi	 N
+dikha	hi	 V
+Rahe	hi	 N
+ho	hi	 V
+
+tujhe	hi	 N
+udane	univ	 N
+k	hi	 X
+liye	hi	PSP
+
+Are	hi	 V
+mera	hi	 N
+baby	hi	 N
+naraj	hi	 N
+hogya	hi	 N
+
+
+
+baby	hi	 N
+
+itne	hi	 N
+chaate	hi	 V
+khayega	hi	 N
+pdai	hi	 N
+bhul	hi	 N
+jyega	hi	 N
+
+Ye	hi	 PRP
+bomb	hi	 N
+mere	hi	 V
+ke	hi	 PRP
+aage	en	 N
+Kuch	hi	 X
+
+
+acha	hi	 J
+g	hi	 N
+
+Kahe	hi	 N
+ke	hi	 PRP
+chaate	hi	 V
+
+or	hi	CC
+btaaa	univ	 N
+kaisa	hi	 N
+h	hi	 X
+
+Mastttt	hi	U
+
+pdai	hi	 N
+kaisi	hi	 N
+chl	hi	 N
+rhi	hi	 N
+h	hi	 X
+
+Kyu	hi	 X
+gf	hi	 N
+bi	hi	 N
+baby	hi	 N
+hoti	hi	 V
+h	hi	 X
+kya	hi	 N
+
+Behen	hi	 N
+Ni	hi	 PRP
+hoti	hi	 V
+kya	hi	 J
+
+Padhai	hi	 N
+hi	hi	 PRT
+to	hi	PSP
+chalti	hi	 V
+hai	hi	 V
+
+glti	hi	 N
+se	hi	 PRP
+di	hi	 V
+ko	hi	PSP
+b	hi	 V
+yaad	hi	 N
+kr	hi	 PRP
+liya	hi	 N
+kr	hi	 PRP
+
+Or	hi	 X
+chalti	hi	 N
+rehti	hi	 N
+hai	hi	 V
+
+hoti	hi	 V
+h	hi	 PRT
+bt	hi	CC
+abhi	hi	 N
+main	hi	 N
+tujhse	hi	 V
+naraj	hi	 N
+hu	hi	 V
+
+Kar	hi	 X
+to	hi	PSP
+liya	hi	 V
+
+
+okkkk	hi	U
+
+Shadi	hi	 N
+kab	hi	PSP
+hai	hi	 V
+
+pooja	ne	 N
+ne	hi	PSP
+kaha	hi	 X
+h	hi	 X
+
+Nahi	hi	 N
+apka	hi	 N
+message	en	 N
+mila	hi	 N
+phke	hi	 N
+
+to	hi	PSP
+kr	hi	 V
+liya	hi	E
+
+Phle	hi	 N
+
+Fir	hi	 N
+bad	hi	 V
+me	hi	 PRP
+pooja	ne	 N
+ne	hi	PSP
+bataya	hi	 N
+
+aa	hi	PSP
+kr	hi	 X
+ldka	hi	 N
+dekh	hi	 V
+tbhi	hi	 N
+to	hi	PSP
+hogi	hi	 V
+
+okkkk	hi	U
+
+abhi	hi	 N
+ni	hi	 PRT
+malum	ne	 N
+bt	hi	CC
+kya	hi	 J
+pooja	ne	 N
+ko	hi	PSP
+invite	en	 V
+kr	hi	 PRP
+diya	hi	 N
+h	hi	 X
+tu	hi	PSP
+mt	hi	 N
+aaiyu	hi	 N
+
+Han	hi	 X
+thik	hi	 N
+hai	hi	 V
+
+Usi	hi	 N
+se	hi	 PRP
+karo	hi	 V
+baat	hi	 N
+
+Mere	hi	 N
+se	hi	 PRP
+kyu	hi	 PRP
+
+Main	hi	 N
+jara	hi	 N
+hu	hi	 V
+nahane	hi	 N
+
+jaaa	hi	 N
+
+bdbo	hi	 N
+aa	hi	PSP
+rhi	hi	 N
+h	hi	 X
+
+ja	hi	 PRT
+
+naha	hi	 N
+le	hi	 V
+
+Han	hi	 X
+apko	hi	 N
+itnei	hi	 N
+door	hi	 N
+se	hi	PSP
+agayi	hi	 V
+na	hi	 PRT
+
+
+hmmm	hi	 PRT
+
+or	hi	CC
+btaaa	univ	 N
+sb	hi	 N
+thik	hi	 N
+na	hi	 N
+
+Han	hi	 X
+di	hi	 V
+
+Sab	hi	 N
+thik	hi	 N
+hi	hi	 PRT
+hai	hi	 V
+
+okkk	hi	U
+
+kb	hi	 PRP
+aayega	hi	 N
+
+Main	hi	 N
+ara	hi	 N
+hu	hi	 N
+di	hi	PSP
+holibse	hi	 V
+ek	hi	 SYM
+din	hi	 X
+phle	hi	 N
+
+okkkk	hi	U
+
+Wo	hi	 X
+kya	hi	 J
+chugli	hi	 N
+kri	hi	 PRP
+moti	hi	 N
+meri	hi	 N
+raat	hi	 N
+me	hi	 PRP
+
+km	hi	 PRP
+boli	hi	 N
+moti	hi	 N
+mt	hi	 PRP
+bol	hi	 N
+
+Apko	hi	 J
+Ni	hi	 N
+puja	hi	 N
+ko	hi	PSP
+moti	hi	 J
+bola	hi	 N
+
+ha	hi	 PRT
+use	en	 V
+hi	hi	 PRT
+moti	hi	 N
+mt	hi	 PRP
+bol	hi	 X
+
+smjha	ne	 PRT
+
+mjhe	hi	 N
+bol	hi	 N
+
+main	hi	 N
+moti	hi	 N
+ho	hi	 V
+gai	hi	 V
+na	hi	 PRT
+
+Jada	hi	 N
+Ni	hi	 PRP
+hora	hi	 N
+kuch	hi	 SYM
+
+hmmm	univ	 PRT
+
+sun	hi	 N
+jb	hi	 N
+jyega	hi	 N
+na	hi	 PRT
+to	hi	PSP
+usse	hi	 V
+phele	hi	 N
+milne	hi	 N
+aaiyu	hi	 N
+mjhse	hi	 N
+
+Ha	hi	 PRT
+did	hi	 V
+soch	hi	 N
+ra	hi	PSP
+hu	hi	 V
+
+
+Did	hi	U
+
+Didi	hi	 N
+
+hmm	univ	 PRT
+
+mjhe	hi	 N
+usk	hi	 V
+liye	hi	PSP
+kuch	hi	 SYM
+bhejna	hi	 N
+h	hi	 X
+
+Kya	hi	 N
+bhej	hi	 N
+Rahe	hi	 N
+ho	hi	 V
+
+patiyala	hi	 N
+suit	en	 J
+
+dono	hi	 SYM
+mil	hi	 N
+kr	hi	 X
+kharid	hi	 N
+lengeni	hi	 V
+to	hi	PSP
+main	hi	 N
+kharid	hi	 N
+kr	hi	 PRP
+rakh	hi	 N
+lungi	hi	 N
+
+Are	hi	 V
+koi	hi	 PRP
+ni	hi	 PRT
+
+Nai	hi	 PRT
+bhejo	hi	 V
+
+fir	hi	 N
+tere	hi	 PRP
+ko	hi	PSP
+de	hi	PSP
+dungi	hi	 N
+
+Avasarama	hi	 N
+dani	hi	 N
+face	en	 N
+
+km	hi	 PRP
+bol	hi	 N
+bcha	hi	 N
+h	hi	 X
+bcha	hi	 N
+bn	hi	 V
+kr	hi	 PRP
+reh	hi	 X
+
+tu	hi	CC
+na	hi	 PRT
+km	hi	 N
+bol	hi	 N
+
+Nenu	hi	 N
+noru	hi	 N
+moseskonu	hi	 N
+
+hm	hi	 V
+dono	hi	 SYM
+k	hi	 X
+bich	hi	 N
+mei	hi	 N
+na	hi	 PRT
+bol	hi	 N
+
+oye	hi	 V
+hindi	hi	 N
+bol	hi	 N
+
+Nannu	hi	 N
+eppudu	hi	 N
+pampava	univ	 N
+dresses	en	 N
+Dani	hi	 N
+kotta	hi	 J
+kotta	hi	 J
+dresses	en	 N
+konpedtavu	hi	 N
+
+Nahi	hi	 N
+bol	hi	 N
+ra	hi	PSP
+hindi	hi	 N
+
+ruk	hi	U
+
+hi	hi	 PRT
+Hindi	hi	 V
+me	hi	 PRP
+translate	en	 N
+Kara	hi	 N
+lena	hi	 N
+
+
+kraaa	hi	 N
+lungi	hi	 N
+
+
+Moti	hi	 N
+
+
+Are	hi	 V
+kab	hi	PSP
+jaoge	hi	 N
+aap	hi	 X
+lene	hi	 V
+
+ab	hi	 X
+sachi	hi	 N
+mei	hi	 PRP
+lhayega	hi	 N
+
+khayega	hi	 N
+
+Patiyala	en	 N
+
+Mere	hi	 N
+liye	hi	PSP
+do	hi	 V
+chaar	hi	 V
+pajame	hi	 N
+or	hi	CC
+shirt	en	 N
+bhi	hi	 N
+bhijwa	hi	 N
+do	hi	 V
+
+
+tu	hi	CC
+apna	hi	 N
+kaam	hi	 N
+kr	hi	 X
+
+chl	hi	 J
+bhaag	hi	 N
+
+kbhi	hi	 PRP
+b	hi	 V
+le	hi	 X
+lungi	hi	 V
+
+Shadi	hi	 N
+me	hi	 PRP
+rupye	hi	 N
+dunga	hi	 N
+kanyadaan	hi	 N
+ke	hi	 PRP
+
+mera	hi	 N
+kuch	hi	 N
+ni	hi	 PRT
+malum	ne	 N
+main	hi	 N
+kb	hi	 N
+shopping	en	 V
+kr	hi	 PRP
+lu	hi	 N
+
+
+Haha	univ	 PRT
+
+ni	hi	 PRT
+chahiye	hi	 N
+
+Lol	univ	U
+
+Le	hi	 N
+lo	hi	 V
+
+tu	hi	CC
+mt	hi	 N
+aaiyu	hi	E
+
+Interest	en	 J
+
+tujhe	hi	 N
+di	hi	 V
+ki	hi	 PRP
+yaad	hi	 J
+kaha	hi	 N
+aati	hi	 N
+h	hi	 PRT
+
+Are	hi	 V
+aaunga	hi	 N
+
+Avni	hi	 N
+didi	hi	 N
+ka	hi	 N
+bhi	hi	 N
+aise	hi	 R
+Hi	hi	 N
+nahi	hi	 N
+nahi	hi	 N
+bolta	hi	 J
+tha	hi	 SYM
+
+sirf	hi	 N
+pooja	hi	 N
+aayegi	hi	 N
+wo	hi	 V
+b	hi	 V
+hr	hi	 N
+function	en	 N
+mei	hi	 N
+
+Or	hi	 X
+akhirkar	hi	 N
+nahi	hi	 N
+ja	hi	 N
+
+okkk	en	U
+
+Beta	hi	 N
+kya	hi	 J
+oarichay	hi	 N
+karwaoge	hi	 N
+usaka	hi	 J
+ghar	hi	 N
+walo	hi	PSP
+se	hi	 PRP
+
+Parichay	hi	 N
+
+agr	hi	 X
+tu	hi	PSP
+meri	hi	 N
+mei	hi	 N
+ni	hi	 PRT
+aaya	hi	 N
+to	hi	PSP
+pitega	hi	 N
+bht	hi	 N
+
+hmmm	univ	 PRT
+sahi	hi	 N
+pkde	hi	 N
+
+
+kahungi	hi	 N
+ye	hi	 PRP
+hone	hi	 V
+wali	hi	 N
+bahu	hi	 N
+h	hi	 X
+
+Or	hi	 X
+fir	hi	 N
+to	hi	PSP
+mai	hi	 V
+pakka	hi	 N
+shadi	hi	 V
+me	hi	 PRP
+Ni	hi	 J
+aara	hi	 N
+
+aayega	hi	 N
+ni	hi	 PRT
+to	hi	PSP
+pitega	hi	 N
+
+Are	hi	 V
+ajaunga	hi	 N
+di	hi	DT
+tension	en	 N
+na	hi	 PRT
+lo	hi	 N
+
+Or	hi	 X
+mastery	en	 N
+kaisi	hi	 N
+chal	hi	 J
+ri	hi	 N
+hai	hi	 V
+apki	hi	 N
+
+tu	hi	CC
+pich	hi	 N
+mt	hi	 PRP
+
+bs	hi	 V
+
+ye	hi	 PRP
+
+Matlab	hi	 N
+
+Vistaar	hi	 N
+se	hi	 PRP
+bolo	hi	 V
+
+Bolo	hi	 J
+
+btaungi	hi	 N
+bhi	hi	 N
+
+uski	hi	 N
+shadi	hi	 N
+ho	hi	 V
+rhi	hi	 N
+h	hi	 X
+
+
+Are	hi	 V
+to	hi	PSP
+kaise	hi	 V
+fir	hi	 N
+
+gharwale	hi	 N
+Kara	hi	 N
+re	hi	 N
+hain	hi	 V
+
+
+Are	hi	 V
+di	hi	PSP
+ap	hi	 SYM
+kamlesh	hi	 N
+masi	hi	 N
+ko	hi	PSP
+jante	hi	 N
+ho	hi	 V
+
+haaa	hi	 J
+janti	hi	 N
+hu	hi	 V
+shayd	hi	 V
+
+haaa	univ	 PRT
+
+usk	hi	 V
+ghr	hi	 N
+wale	hi	 N
+kraa	hi	 N
+rh	hi	 X
+h	hi	 X
+
+Wo	hi	 R
+man	hi	 N
+gaya	hi	 N
+
+dhamki	hi	 N
+mili	hi	 N
+h	hi	 PRT
+use	hi	 V
+
+Aaaaaaaaahhh	univ	 N
+
+Kaisi	hi	 N
+
+ki	hi	 PRP
+agr	hi	 J
+tune	hi	 N
+shadi	hi	 N
+ni	hi	 PRT
+ki	hi	 PRP
+to	hi	PSP
+hm	hi	 V
+ye	hi	 PRP
+kr	hi	 PRP
+lenge	hi	 V
+
+Ye	hi	 PRP
+kya	hi	 J
+karenge	hi	 N
+
+are	hi	 V
+mr	hi	DT
+jyenge	hi	 V
+
+or	hi	CC
+wo	hi	 PRT
+maan	hi	 N
+gy	hi	 N
+
+Are	hi	 V
+yar	hi	 PRT
+
+Maa	hi	 N
+bap	hi	 N
+hain	hi	 V
+na	hi	 PRT
+
+To	hi	PSP
+ap	hi	 V
+ka	hi	 N
+karoge	hi	 V
+ab	hi	PSP
+di	hi	 PRP
+
+waise	hi	 V
+b	hi	 V
+hmari	hi	 N
+shadi	hi	 N
+ni	hi	 PRT
+ho	hi	 V
+skti	hi	 N
+thi	hi	 V
+tujhe	hi	 N
+ptaa	hi	 N
+hai	hi	 V
+
+hmmm	univ	 PRT
+
+Han	hi	 X
+wo	hi	 V
+bhi	hi	 N
+baat	hi	 N
+hai	hi	 V
+
+tu	hi	CC
+nikhil	univ	 J
+bhai	hi	 N
+ko	hi	PSP
+janta	hi	 J
+h	hi	 X
+na	hi	 PRT
+wo	hi	 N
+maar	hi	 N
+daltaaa	hi	 N
+
+waise	hi	 V
+b	hi	 V
+wo	hi	PSP
+sc	hi	 N
+tha	hi	 X
+or	hi	CC
+b	hi	 V
+kafi	hi	 N
+dikt	hi	 V
+thi	hi	 PRP
+to	hi	PSP
+acha	hi	 J
+hua	hi	 V
+uski	hi	 N
+shadi	hi	 N
+kahi	hi	 N
+or	hi	CC
+ho	hi	DT
+rhi	hi	 N
+ghr	hi	 V
+wale	hi	 N
+to	hi	PSP
+maar	hi	 N
+hi	hi	 N
+daltei	hi	 N
+mjhe	hi	 N
+
+Han	hi	 X
+didi	hi	 N
+
+Koi	hi	 N
+Ni	hi	 J
+aap	hi	 N
+ache	hi	PSP
+ladki	hi	 N
+jo	hi	 PRP
+
+Kuch	hi	 X
+hua	hi	 V
+to	hi	PSP
+nahi	hi	 N
+tha	hi	 V
+na	hi	 PRT
+
+niiii	hi	 J
+
+Chalo	hi	 V
+to	hi	PSP
+Jada	hi	 N
+tension	en	 N
+na	hi	 PRT
+
+hmmm	univ	 PRT
+
+tujhe	hi	 N
+apni	hi	 N
+behn	hi	 N
+pr	hi	 N
+bharosa	hi	 N
+h	hi	 X
+na	hi	 PRT
+
+ya	hi	 PRT
+ni	hi	 PRT
+
+Are	hi	 V
+hai	hi	 V
+Kyu	hi	 J
+nahi	hi	 N
+hoga	hi	 N
+
+acha	hi	 J
+ye	hi	 PRP
+btaaa	hi	 N
+kmlesh	hi	 N
+bua	hi	 N
+k	hi	 X
+bare	hi	 N
+mei	hi	 PRP
+kya	hi	 N
+bol	hi	 X
+rh	hi	 X
+tha	hi	 SYM
+
+hmmm	univ	 PRT
+
+baat	hi	 N
+hoti	hi	 V
+h	hi	 PRT
+hmari	hi	 N
+aaj	hi	 X
+b	hi	 V
+
+Nikki	hi	 N
+didi	hi	 N
+hain	hi	 V
+na	hi	 PRT
+
+hmmm	univ	 PRT
+
+Unko	hi	 N
+pics	en	 N
+moti	hi	 N
+ko	hi	PSP
+dikhaunga	hi	 V
+hain	hi	 V
+Unki	hi	U
+
+okkk	en	U
+
+Fb	en	 N
+ID	en	 N
+hai	hi	 V
+
+meri	hi	 N
+
+Are	hi	 V
+unki	hi	 N
+
+ptaaa	hi	 N
+ni	hi	 PRT
+mere	hi	 V
+frd	en	 J
+list	en	 N
+mei	hi	 N
+ni	hi	 PRT
+h	hi	 X
+
+Are	hi	 V
+yar	hi	 PRT
+
+kya	hi	 J
+
+
+I	en	 PRP
+mean	en	 V
+Ye	hi	 PRP
+bol	hi	 X
+ri	hi	 N
+thi	hi	 PRP
+ki	hi	 PRP
+unki	hi	 N
+pics	en	 N
+do	hi	 V
+
+okkk	en	U
+
+lucky	univ	 J
+bhai	hi	 N
+ki	hi	 PRP
+frd	en	 J
+list	en	 N
+mei	hi	 N
+ho	hi	 V
+skti	hi	 N
+h	hi	 X
+wo	hi	 V
+
+waise	hi	 V
+wo	hi	 V
+bht	hi	 N
+achi	hi	 J
+h	hi	 X
+kbhi	hi	 N
+use	en	 V
+chodna	hi	 N
+ni	hi	 PRT
+okkkk	en	 N
+
+Pooja	univ	 N
+
+Han	hi	 X
+din	hi	 V
+me	hi	 PRP
+Chand	hi	 N
+ka	hi	 N
+tukda	hi	 N
+ban	hi	 V
+gayi	hi	 N
+
+g	hi	 N
+ni	hi	 PRT
+wo	hi	 PRT
+b	hi	 V
+ek	hi	 PRP
+ldki	hi	 N
+h	hi	 PRT
+isliye	hi	 N
+bol	hi	 X
+rhi	hi	 N
+hu	hi	 V
+as	en	PSP
+a	en	DT
+human	en	 N
+
+To	hi	PSP
+human	en	 V
+to	hi	PSP
+main	hi	 N
+bhi	hi	 N
+hu	hi	 V
+na	hi	 PRT
+
+
+mjhe	hi	 N
+malum	hi	 N
+h	hi	 PRT
+kitna	hi	 N
+bura	hi	 N
+lgta	hi	 N
+h	hi	 PRT
+jb	hi	 N
+hm	hi	 V
+apne	hi	 PRP
+pyr	hi	PSP
+se	hi	 PRP
+dur	hi	 SYM
+hote	hi	 V
+h	hi	 PRT
+
+Are	hi	 V
+didi	hi	 N
+
+Pata	hi	 N
+I	en	 PRP
+also	en	 R
+know	en	 V
+
+Pata	hi	 J
+hai	hi	 V
+
+hmmm	univ	 PRT
+
+so	en	 R
+pls	en	 PRT
+
+bhai	hi	 N
+kbhi	hi	 N
+kuch	hi	 SYM
+galat	hi	 N
+kriyu	hi	 N
+
+K	en	 X
+d	hi	DT
+Abhi	hi	 V
+tak	hi	 V
+to	hi	PSP
+kiya	hi	 N
+
+krna	hi	 N
+b	hi	 V
+ni	hi	 PRT
+hai	hi	 V
+
+Nai	hi	 PRP
+karunga	hi	 N
+di	hi	 V
+
+okkk	en	U
+
+good	en	 J
+
+Ap	hi	 J
+ab	hi	 X
+fresh	en	 N
+mind	en	 N
+se	hi	PSP
+ho	hi	 V
+
+niii	hi	U
+
+Aca	hi	 N
+hai	hi	 V
+nai	hi	 PRP
+large	en	 N
+
+Shadi	hi	 N
+*	univ	 X
+
+koshish	hi	 N
+kr	hi	 X
+rhi	hi	 N
+hu	hi	 V
+
+hmm	univ	 PRT
+
+Acha	hi	 N
+Rona	hi	 N
+dhona	hi	 N
+karte	hi	 N
+ho	hi	 V
+
+hmmm	univ	 PRT
+
+Nai	hi	 PRT
+rona	hi	 N
+
+Bhai	hi	 N
+hai	hi	 V
+na	hi	 PRT
+
+
+hmmm	univ	 PRT
+
+i	en	 PRP
+know	en	 V
+
+okkk	en	U
+
+
+hmmm	univ	 PRT
+
+
+Or	hi	 X
+dasso	hi	 N
+
+kya	hi	 J
+
+Kujh	hi	 PRT
+v	hi	 X
+
+kya	hi	 J
+
+
+Chalo	hi	 N
+mai	hi	 N
+Lunch	en	 V
+karne	hi	 N
+jara	hi	 N
+hu	hi	 V
+
+bye	en	 V
+
+Didi	hi	 N
+
+Hi	en	 PRT
+
+hiii	en	U
+
+Kya	hi	 J
+kr	hi	 X
+re	hi	PSP
+o	hi	CC
+
+dekh	hi	 N
+rhi	hi	 N
+hu	hi	 V
+
+Serial	en	 J
+
+
+hmmmm	univ	 PRT
+
+sahi	hi	 N
+pkde	hi	 N
+h	hi	 PRT
+
+tu	hi	CC
+kya	hi	 J
+kr	hi	 PRP
+rh	hi	 N
+
+Kuch	hi	 X
+Ni	hi	 J
+baitha	hi	 N
+hu	hi	 V
+
+kisk	hi	 V
+sath	hi	 N
+
+pooja	univ	 N
+k	hi	 X
+
+Nahi	hi	 N
+di	hi	 V
+
+me	hi	 PRP
+
+Kal	hi	 X
+mandir	hi	 N
+jaynge	hi	 N
+
+Hi	en	 PRT
+di	hi	 V
+
+Are	hi	 V
+apko	hi	 N
+dhyan	hi	 N
+rakhne	hi	 N
+ka	hi	 N
+shonk	hi	 V
+hai	hi	 V
+Jada	hi	 N
+to	hi	PSP
+rakh	hi	 V
+lo	hi	 V
+aap	hi	 X
+
+acha	hi	 J
+
+km	hi	 PRP
+bol	hi	 N
+
+
+Use	hi	 V
+b	hi	 V
+bola	hi	 N
+karo	hi	 V
+mera	hi	 N
+rakhne	hi	 N
+k	hi	 X
+lye	hi	 N
+
+pagal	hi	 J
+mjhe	hi	 N
+tm	hi	PSP
+dono	hi	 SYM
+ka	hi	 N
+khyl	hi	 SYM
+h	hi	 PRT
+
+Biased	en	 J
+ho	hi	 V
+ladkiyp	hi	 PRP
+ki	hi	 PRP
+
+Ladkiyo	hi	U
+
+babu	hi	 N
+
+niii	hi	 J
+re	hi	 N
+
+
+
+
+or	hi	CC
+btaaa	hi	 N
+
+sb	hi	 PRP
+thik	hi	 N
+
+Bas	hi	 X
+sounga	hi	 N
+ab	hi	 X
+to	hi	 PRT
+
+Sab	hi	 N
+mast	hi	 N
+hai	hi	 V
+
+Thak	hi	 N
+gaya	hi	 N
+jaada	hi	 N
+
+okkk	en	U
+
+Fir	hi	 N
+se	hi	 PRP
+assignment	en	 V
+hai	hi	 V
+ek	hi	 SYM
+or	hi	CC
+
+I	en	 PRP
+mean	en	 V
+aur	hi	E
+
+okk	en	U
+
+chl	hi	 J
+rest	en	 N
+kr	hi	 PRP
+le	hi	 V
+
+kkk	en	U
+
+Chalo	hi	 V
+to	hi	PSP
+rat	hi	 V
+me	hi	 PRP
+vaartalap	hi	 R
+karte	hi	 V
+hain	hi	 V
+
+fir	hi	 N
+pd	hi	 N
+liyu	hi	 V
+
+
+bye	en	 V
+
+gn	en	U
+
+bye	en	 PRT
+di	hi	 V
+
+Hapy	en	 R
+day	en	 N
+di	hi	PSP
+
+thank	en	 V
+u	en	 PRP
+
+
+gm	en	U
+
+di	hi	 V
+
+Hiiiii	en	U
+
+hiii	en	U
+
+Kaisan	hi	 N
+ba	hi	 N
+
+mst	hi	 J
+Hi	en	 PRT
+
+gm	en	U
+
+Hi	en	 PRT
+
+
+Busy	en	 J
+ho	hi	 V
+
+hiiii	en	U
+
+ho	hi	 V
+
+Mast	hi	 J
+hu	hi	 PRT
+di	hi	 V
+
+Ap	hi	 J
+suna	hi	 N
+
+Sunao	hi	U
+
+thik	hi	 N
+hu	hi	 PRT
+
+aap	hi	 X
+btao	hi	 V
+
+Main	hi	 R
+abhi	hi	 N
+evaluation	en	 N
+karwa	hi	 N
+k	hi	 X
+aaraha	hi	 N
+hu	hi	 V
+Prof	en	 N
+ke	hi	 PRP
+cabin	en	 V
+se	hi	 PRP
+
+
+Or	hi	 X
+class	en	 V
+me	hi	 PRP
+baitha	hi	 N
+
+Di	hi	 N
+ram	hi	 X
+ram	hi	 X
+
+ram	hi	 X
+ram	hi	 X
+
+Kaisan	hi	 N
+ba	hi	 N
+
+mst	hi	 N
+ba	hi	 N
+
+aa	hi	PSP
+gy	hi	 N
+tu	hi	PSP
+
+Yo	hi	 PRT
+di	hi	 V
+
+Agaya	hi	 N
+ghra	hi	 N
+pe	hi	PSP
+
+okkk	en	U
+
+Yoo	univ	 PRT
+
+kb	hi	 PRP
+aayega	hi	 N
+
+Didi	hi	 N
+Abhi	hi	 N
+rmto	hi	 N
+akka	hi	 J
+nahi	hi	 N
+hai	hi	 V
+ki	hi	 PRP
+kab	hi	PSP
+aaunga	hi	 N
+
+Mujhe	hi	 N
+kaam	hi	 N
+bhi	hi	 N
+bohot	hi	 V
+Mia	hi	 N
+hua	hi	 V
+hai	hi	 V
+
+to	hi	PSP
+aa	hi	DT
+jaiyu	hi	 N
+chup	hi	 N
+chap	hi	 V
+
+Di	hi	 N
+il	en	 N
+try	en	 V
+mah	en	DT
+best	en	 J
+
+okk	en	U
+
+aa	hi	PSP
+jaiyu	hi	 N
+
+uska	hi	 N
+suit	en	 J
+le	hi	 V
+kr	hi	 PRP
+jana	hi	 N
+h	hi	 X
+to	hi	PSP
+
+okkkk	en	U
+
+Accha	hi	 N
+
+hmm	univ	 PRT
+
+Aho	hi	 J
+aho	hi	 PRT
+
+hmmm	univ	 PRT
+
+ho	hi	 V
+ap	hi	 PRP
+di	hi	PSP
+
+Kya	hi	 J
+kar	hi	 V
+re	hi	 N
+hi	hi	 PRT
+
+Ho	hi	 PRT
+
+kuch	hi	 SYM
+ni	hi	 PRT
+
+dekh	hi	 N
+rhi	hi	 N
+hu	hi	 V
+
+Oho	en	U
+
+Ashok	en	 N
+
+
+niii	hi	U
+
+kumkum	en	 N
+bhagya	hi	 N
+
+Chee	hi	 V
+
+Yakkk	hi	U
+
+
+kya	hi	 J
+
+Ye	hi	 PRP
+kya	hi	 N
+kya	hi	 N
+serial	en	 J
+dekhte	hi	 V
+rehte	hi	 V
+hain	hi	 V
+
+acha	hi	 J
+to	hi	PSP
+h	hi	 V
+pagal	hi	 N
+natak	hi	 V
+
+Wese	hi	 N
+mujhe	hi	 PRP
+thik	hi	 N
+lagta	hi	 N
+hai	hi	 V
+
+But	en	CC
+hw	en	 N
+can	en	 V
+u	en	 PRP
+juss	en	 V
+only	en	 R
+watch	en	 V
+serials	en	 N
+
+for	en	PSP
+time	en	 N
+passa	en	 N
+
+Passa	hi	 N
+
+Tamilla	ne	 N
+
+na	hi	 PRT
+
+pass	en	 N
+
+Ahaaan	hi	 N
+
+hmmm	univ	 PRT
+
+Huu	univ	U
+
+Huu	univ	U
+
+hmmm	univ	 PRT
+
+or	hi	CC
+
+Bas	hi	 X
+vadyia	hi	 N
+sab	hi	 SYM
+
+aa	hi	PSP
+ja	hi	 N
+mom	en	 N
+se	hi	PSP
+b	hi	 V
+mil	hi	 N
+liyu	hi	 N
+
+okk	en	U
+
+Han	hi	 X
+di	hi	 V
+Man	en	 V
+to	hi	PSP
+bohot	hi	 V
+hai	hi	 V
+mera	hi	 N
+ghimne	hi	 N
+ka	hi	 N
+
+Par	hi	 X
+ye	hi	 PRP
+kaam	hi	 V
+hai	hi	 V
+clg	en	 N
+ka	hi	 N
+
+to	hi	PSP
+aa	hi	DT
+ja	hi	 N
+
+Cnfuzd	en	 N
+hun	hi	 V
+bohot	hi	 V
+
+kr	hi	 PRP
+liyu	hi	 N
+
+dekh	hi	 PRT
+le	hi	 V
+
+Han	hi	 V
+di	hi	 V
+
+Ata	hi	 J
+Ni	hi	 N
+
+4	hi	PSP
+din	hi	 X
+ki	hi	 PRT
+chutti	hi	 N
+hai	hi	 V
+Ni	hi	CC
+Or	hi	 X
+jaane	hi	 N
+ka	hi	 N
+man	hi	 N
+har	hi	 V
+jagah	hi	 N
+hai	hi	 V
+
+okkk	en	U
+
+aa	hi	PSP
+jaiyu	hi	 N
+okkk	en	 V
+
+i	en	 PRP
+m	en	 N
+waiting	en	 V
+
+Han	hi	 X
+di	hi	 V
+aise	hi	 R
+mat	hi	 N
+bolo	hi	 N
+
+Mera	hi	 N
+to	hi	PSP
+khud	hi	 V
+man	hi	 N
+karta	hi	 J
+hai	hi	 V
+
+okkk	en	U
+
+Aan	hi	U
+
+Upset	en	 J
+ho	hi	 V
+kya	hi	 J
+
+hmmmm	univ	 PRT
+
+Kya	hi	 J
+hua	hi	 X
+
+kuch	hi	 SYM
+ni	hi	 PRT
+
+tu	hi	CC
+milne	hi	 N
+ni	hi	 PRT
+aa	hi	PSP
+rh	hi	 N
+h	hi	 X
+na	hi	 PRT
+isliye	hi	 N
+
+Bolo	hi	 J
+
+Accha	hi	 N
+
+Di	hi	 N
+apki	hi	 N
+kasan	hi	 N
+
+Kasam	hi	U
+
+Main	hi	 R
+jhuth	hi	 N
+Ni	hi	 PRP
+bol	hi	 N
+ra	hi	 N
+
+Abhi	hi	 N
+b	hi	 V
+bohot	hi	 N
+kaam	hi	 N
+hain	hi	 V
+
+Ap	hi	 J
+puja	hi	 N
+se	hi	PSP
+puch	hi	 SYM
+kena	hi	 N
+
+ptaaa	hi	 N
+h	hi	 PRT
+b	hi	 V
+
+babu	hi	 N
+koi	hi	 PRP
+ni	hi	 PRT
+
+tu	hi	CC
+free	en	 J
+ho	hi	 V
+jye	hi	 N
+to	hi	PSP
+btaaa	hi	 V
+diyu	hi	PSP
+okkkk	en	 V
+
+Di	hi	 N
+sach	hi	 V
+me	hi	 PRP
+Main	hi	 V
+thoda	hi	 N
+future	en	 N
+ki	hi	 PRP
+tension	en	 V
+me	hi	 PRP
+bhi	hi	 N
+hun	hi	 V
+na	hi	 PRT
+
+are	hi	 V
+
+mt	hi	 PRP
+le	hi	 V
+pagal	hi	E
+
+Mm	hi	 N
+keni	hi	 N
+padti	hi	 N
+hai	hi	 V
+
+Leni	hi	U
+
+tention	en	 N
+lene	hi	 V
+se	hi	PSP
+kuch	hi	 SYM
+ni	hi	 PRT
+hota	hi	 N
+
+hmmm	univ	 PRT
+
+ye	hi	 PRP
+to	hi	PSP
+h	hi	 V
+bt	hi	CC
+fir	hi	 V
+b	hi	 V
+
+Hmm	univ	U
+
+Ab	hi	 N
+summer	en	 N
+training	en	 N
+dekhni	hi	 V
+hai	hi	 V
+koi	hi	 SYM
+acchi	hi	 J
+si	hi	 PRP
+or	hi	CC
+btaa	hi	 N
+
+okkk	en	U
+
+Han	hi	 V
+
+Bas	hi	 X
+Kuch	hi	 X
+ni	hi	 PRT
+
+Gujiya	hi	 N
+kha	hi	 N
+lo	hi	 V
+aajao	hi	 N
+
+kyu	hi	U
+
+le	hi	 V
+kr	hi	 PRP
+aa	hi	PSP
+jaiyu	hi	 N
+
+i	hi	 PRP
+lv	hi	 V
+
+khana	hi	 N
+khaa	hi	 N
+liya	hi	 N
+
+di	hi	 PRP
+thik	hi	 N
+h	hi	 N
+
+
+namstei	hi	 N
+bol	hi	 N
+diyu	hi	 SYM
+di	hi	PSP
+ko	hi	PSP
+b	hi	 V
+fufa	hi	 N
+g	hi	 N
+ko	hi	PSP
+b	hi	 V
+okkk	hi	 PRP
+
+Aata	hi	 J
+hu	hi	 V
+to	hi	PSP
+launga	hi	 V
+
+hmmmm	hi	 PRT
+
+Ahaan	hi	 N
+Gujiya	hi	 N
+or	hi	CC
+namastey	hi	 N
+uhh	hi	 PRP
+
+okkkk	en	U
+
+
+Bhukkad	hi	U
+
+hmmmm	hi	 PRT
+
+
+hmmm	hi	 PRT
+
+Chaalu	hi	 N
+ladki	hi	 N
+
+hmmm	hi	 PRT
+
+
+Or	hi	 X
+kya	hi	 J
+
+kyu	hi	 PRP
+
+Are	hi	 V
+koi	hi	 PRP
+Ni	hi	 J
+kha	hi	 N
+kena	hi	 N
+
+Lena	hi	 N
+
+Ghar	hi	 J
+nahi	hi	 N
+aavoge	hi	 N
+aa	hi	PSP
+
+okkk	en	U
+
+
+aaungi	hi	 J
+abhi	hi	 N
+mom	en	 N
+ki	hi	 PRP
+tbiyt	hi	 J
+khrb	hi	 SYM
+h	hi	 PRT
+
+bht	hi	U
+
+Kya	hi	 J
+hua	hi	 X
+mami	ne	 N
+g	hi	 N
+ko	hi	PSP
+
+di	hi	 PRP
+se	hi	 PRP
+puch	hi	 SYM
+liyu	hi	 N
+okkk	en	 N
+
+Mammi	hi	 N
+b	hi	 V
+aisi	hi	 N
+Hi	hi	 V
+hain	hi	 V
+Khud	hi	 V
+b	hi	 V
+bmar	hi	 N
+gain	hi	 V
+
+Hain	hi	U
+
+hmmm	univ	 PRT
+
+Are	hi	 V
+hmm	univ	 PRT
+se	hi	PSP
+age	hi	 V
+b	hi	 V
+Kuch	hi	 X
+bol	hi	 X
+lo	hi	 V
+
+kya	hi	 J
+
+Hmm	univ	 X
+hmm	univ	 PRT
+kar	hi	 V
+re	hi	 N
+h	hi	 X
+
+acha	hi	 J
+
+Or	hi	 X
+btaaa	hi	 N
+
+Bas	hi	 X
+abhi	hi	 N
+dinner	en	 N
+karke	hi	 N
+aata	hi	 J
+hu	hi	 V
+
+okkk	en	U
+
+bye	en	 PRT
+
+Hi	en	 PRT
+
+hiii	en	U
+
+
+Kya	hi	 J
+
+bdiya	hi	 N
+
+Haha	univ	 PRT
+
+Khana	hi	 N
+hogya	hi	 N
+
+hmmm	univ	 PRT
+
+Namaskar	hi	 N
+didi	hi	 N
+
+Ki	hi	 PRP
+haal	hi	 N
+ba	hi	 N
+
+ram	hi	 X
+ram	hi	 X
+bhai	hi	 N
+
+bdiya	hi	 N
+
+btao	hi	 N
+
+Bas	hi	 X
+maje	hi	 V
+me	hi	 PRP
+
+okkk	en	U
+
+or	hi	CC
+bua	hi	 N
+g	hi	 N
+kaisi	hi	 N
+h	hi	 X
+
+Mammi	hi	 N
+b	hi	 V
+thk	hi	 N
+thak	hi	 V
+hain	hi	 V
+Hospital	en	 J
+gayi	hi	 N
+hain	hi	 V
+chachi	hi	 N
+ka	hi	 N
+xhekup	en	 N
+karwane	hi	 V
+
+okkk	en	U
+
+chachi	hi	 N
+ko	hi	PSP
+kya	hi	 J
+hua	hi	 X
+
+Are	hi	 V
+Kuch	hi	 X
+hai	hi	 V
+unko	hi	CC
+prblm	en	 N
+
+okkkk	en	U
+
+or	hi	CC
+lucky	en	 J
+bhai	hi	 N
+gy	hi	 N
+
+Na	hi	 PRT
+na	hi	 PRT
+
+Yahi	hi	 N
+hai	hi	 V
+abhi	hi	 N
+to	hi	PSP
+
+okkk	en	U
+
+hello	en	 PRT
+bol	hi	 N
+de	hi	PSP
+
+fufa	hi	 J
+g	hi	 N
+ko	hi	PSP
+nmstei	hi	 N
+
+Han	hi	 X
+g	hi	 N
+bilkul	hi	 J
+namastey	hi	 N
+
+hmmmm	univ	 PRT
+
+good	en	 J
+
+or	hi	CC
+btaaa	hi	 N
+
+Movie	en	 N
+dekh	hi	 V
+raha	hi	 N
+hun	hi	 V
+Awara	hi	 N
+pagal	hi	 J
+diwana	hi	 N
+
+okkkk	en	U
+
+wo	hi	 PRT
+to	hi	PSP
+tu	hi	 V
+h	hi	 X
+
+
+Han	hi	 X
+SAI	hi	 V
+hai	hi	 V
+bilkul	hi	 N
+
+hmmm	univ	 PRT
+
+or	hi	CC
+bta	hi	 J
+
+Bas	hi	 N
+Aj	hi	 X
+apna	hi	 N
+project	en	 N
+wrk	hi	 V
+start	en	 V
+karunga	hi	 N
+
+okkk	en	U
+
+khtm	hi	 PRP
+kr	hi	 X
+jldi	hi	 N
+
+Han	hi	 X
+di	hi	 V
+net	en	 N
+pack	en	 N
+Jada	hi	 N
+chahye	hi	 N
+uske	hi	 N
+lye	hi	 V
+na	hi	 PRT
+
+hmmm	univ	 PRT
+
+wifi	en	 PRP
+ni	hi	 PRT
+h	hi	 PRT
+
+Nai	hi	 PRT
+
+yaha	hi	 PRT
+ja	hi	 N
+
+yhi	hi	 PRP
+rh	hi	 X
+liyu	hi	 N
+kaaam	hi	 V
+b	hi	 V
+kr	hi	 PRP
+liyu	hi	 N
+
+Hahah	univ	 PRT
+
+Acha	hi	 N
+g	hi	 N
+thk	hi	 X
+h	hi	 X
+
+hmmmm	univ	 PRT
+
+to	hi	PSP
+btaa	hi	 N
+kb	hi	 PRP
+tk	hi	CC
+aayega	hi	 N
+
+Aunga	hi	 N
+didi	hi	 N
+
+okkk	en	U
+
+chl	hi	 J
+kaam	hi	 N
+khtm	hi	 N
+kr	hi	 X
+
+Han	hi	 X
+di	hi	 V
+Bilkul	hi	 X
+
+bilkuk	hi	 N
+
+bilkul	hi	 J
+
+Mammi	hi	 N
+agyi	hi	 N
+hain	hi	 V
+
+okkk	en	U
+
+ram	hi	 X
+ram	hi	 X
+di	hi	 V
+
+Hahahaha	univ	 PRT
+
+
+Gunjiya	hi	 N
+khila	hi	 N
+dunga	hi	 N
+tension	en	 N
+mat	hi	 N
+lo	hi	 N
+aa	hi	PSP
+
+Ap	hi	U
+
+ho	hi	 V
+gya	hi	 N
+tera	hi	 N
+
+pooja	ne	 N
+ko	hi	PSP
+btau	hi	 N
+
+Han	hi	 X
+batau	hi	 N
+
+Mai	hi	 N
+Ni	hi	 N
+darta	hi	 N
+
+acha	hi	 J
+
+ptaa	hi	 N
+h	hi	 PRT
+mjhe	hi	 V
+
+To	hi	PSP
+acchi	hi	 J
+bat	hi	 N
+hai	hi	 V
+na	hi	 PRT
+
+hmmm	hi	 PRT
+
+Hmm	hi	U
+
+or	hi	CC
+
+Movie	en	 N
+
+pdai	hi	 N
+mt	hi	 PRP
+kriyu	hi	 N
+
+
+May	hi	 V
+this	en	DT
+season	en	 N
+of	hi	PSP
+color	hi	 N
+bring	en	 V
+you	en	 PRP
+cheer	en	 J
+and	en	CC
+happiness	en	 V
+May	hi	 V
+the	en	DT
+colors	hi	 N
+of	hi	PSP
+the	en	DT
+Holi	hi	 N
+continues	en	 N
+to	hi	PSP
+illuminate	en	 V
+your	en	DT
+life	ne	 N
+and	en	CC
+
+guide	en	 N
+you	en	 PRP
+towards	hi	 V
+the	en	DT
+path	univ	 N
+of	hi	PSP
+success	en	 N
+Happy	en	 J
+Holi	hi	 N
+
+Abbe	hi	 N
+o	hi	CC
+
+Haa	hi	 PRT
+
+Kidde	hi	 N
+jal	hi	 N
+
+Ha	hi	 PRT
+
+Hal	en	U
+
+Bdiya	hi	 N
+tu	hi	PSP
+bta	hi	 N
+
+Gzb	hi	 N
+agay	hi	 N
+
+Hum	hi	 N
+to	hi	PSP
+
+Ohh	hi	 PRT
+
+Gn	hi	U
+
+Direct	en	 J
+gn	hi	 V
+
+
+Hhaha	univ	 PRT
+
+Esa	hi	 N
+Hi	hi	 PRT
+kuch	hi	 SYM
+
+Heheh	hi	 PRT
+
+Or	hi	 X
+suna	hi	 N
+
+Bs	hi	 V
+yr	hi	 N
+bdiya	hi	 V
+
+bta	hi	 N
+
+v	hi	 X
+
+Vdya	hi	 PRT
+
+Dp	hi	 N
+cute	en	 J
+h	hi	 X
+Teri	hi	 N
+balika	univ	 N
+
+Kya	hi	 J
+baat	hi	 N
+hai	hi	 V
+ini	univ	 PRP
+aachi	hi	 J
+hai	hi	 V
+kya	hi	 N
+
+
+Ab	hi	 N
+bol	hi	 N
+rahe	hi	 V
+hai	hi	 V
+
+SB	hi	 N
+Ya	hi	 N
+ab	hi	PSP
+
+
+
+life	ne	 N
+mein	hi	 N
+ho	hi	 V
+
+Rounak	en	 N
+ho	hi	 V
+Berger	ne	 N
+
+Mehak	hi	 N
+ho	hi	 V
+jaise	hi	 N
+
+Tazgi	hi	 N
+ho	hi	 N
+jaise	hi	 N
+free	en	 J
+rahe	hi	 V
+NEW	en	 J
+
+Regards	hi	 V
+
+Priya	univ	 N
+chawla	univ	 N
+Hny	hi	 R
+to	hi	PSP
+you	en	 PRP
+n	hi	CC
+ur	hi	DT
+family	ne	 N
+Stay	en	 R
+fit	hi	 J
+n	hi	CC
+fine	en	 J
+
+Hi	hi	 PRT
+
+Hi	hi	 PRT
+
+Kya	hi	 J
+by	hi	PSP
+Maje	hi	 V
+
+Paga	hi	 N
+Or	hi	 X
+suna	hi	 N
+
+Bs	hi	 V
+bdiy	hi	 N
+Oy	hi	PSP
+kon	hi	 PRP
+c	hi	 N
+trphy	hi	 N
+
+Ca	hi	 N
+me	hi	 PRP
+mili	hi	 N
+gaana	hi	 N
+gaya	hi	 N
+th	hi	PSP
+Are	hi	 V
+gud	hi	 N
+gud	hi	 N
+Chhori	hi	 N
+k	hi	 X
+haal	hi	 N
+
+Bdiya	hi	 N
+tu	hi	PSP
+bta	hi	 J
+Itti	hi	 N
+jldi	hi	 N
+reply	en	 V
+Kya	hi	 N
+bat	hi	 N
+
+
+Abe	hi	 V
+bs	hi	 V
+asa	hi	 N
+hi	hi	 N
+mera	hi	 N
+Han	hi	 N
+beta	hi	 N
+Congos	en	 N
+Gaane	hi	 N
+k	hi	 X
+liye	hi	PSP
+
+Teko	hi	 N
+kese	hi	 V
+pta	hi	 J
+Beta	hi	 N
+joote	en	 N
+khaoge	hi	 N
+Tumne	hi	 N
+Hi	hi	 PRP
+btaya	hi	 N
+
+Ye	hi	 PRP
+tre	hi	 V
+bhratra	hi	 N
+h	hi	 X
+Ya	hi	 N
+mitra	hi	 N
+
+Mitra	hi	 N
+Wah	hi	 N
+Apratim	en	E
+
+Kya	hi	 J
+hua	hi	 V
+teko	hi	CC
+Abe	hi	 V
+Hindi	hi	 N
+hai	hi	 V
+Apratim	en	CC
+ati	hi	 N
+sundat	hi	 J
+Sundar	hi	 N
+
+Are	hi	 V
+tbhi	hi	 N
+to	hi	PSP
+pucha	hi	 V
+ki	hi	 PRP
+hindi	hi	 J
+kes	hi	 N
+Are	hi	 V
+mera	hi	 N
+shonk	hi	 V
+h	hi	 PRT
+M	hi	 V
+a	hi	DT
+linguist	en	 J
+Telugu	hi	 N
+bolun	hi	 N
+kya	hi	 N
+
+Ohhh	hi	 PRT
+
+Ha	hi	 PRT
+bolio	hi	 N
+jara	hi	 N
+Ela	hi	 N
+unnaru	hi	 J
+ra	hi	PSP
+pilla	en	 N
+Inka	hi	 N
+em	hi	 PRP
+chestunnav	hi	 N
+
+Tamil	ne	 N
+teri	hi	 N
+Nai	hi	 V
+Har	hi	 X
+pal	univ	 V
+Teri	hi	 N
+yadda	hi	 N
+wich	hi	PSP
+h	hi	 PRT
+tu	hi	PSP
+Tamil	ne	 N
+kaha	hi	 N
+aya	hi	 J
+game	en	 V
+me	hi	 PRP
+
+
+Abe	hi	 V
+bhai	hi	 N
+ne	hi	PSP
+sikahya	hi	 N
+tha	hi	 X
+agr	hi	 X
+tamik	ne	 X
+nai	hi	 V
+aati	hi	 N
+to	hi	PSP
+bolte	hi	 V
+hai	hi	 V
+tamil	ne	CC
+teri	hi	 N
+yada	hi	 N
+Han	hi	 V
+malum	ne	 V
+hai	hi	 V
+Maje	hi	 N
+lera	hi	 N
+tha	hi	 SYM
+Tariyadi	hi	 N
+bolte	hi	 N
+h	hi	 PRT
+Precisely	en	 R
+
+Abe	hi	 V
+pata	hi	 N
+na	hi	 V
+
+Hehhe	hi	 N
+
+Salle	en	 J
+yaha	hi	 N
+aaya	hi	 J
+hua	hi	 V
+hai	hi	 V
+
+Mila	hi	 N
+bhi	hi	 N
+nai	hi	 V
+Abe	hi	 V
+tu	hi	PSP
+kidar	hi	 N
+milna	hi	 N
+h	hi	 X
+bta	hi	 N
+dde	hi	 N
+Mil	hi	 N
+lenge	hi	 V
+
+Ohhh	hi	 N
+kya	hi	 J
+baat	hi	 N
+Tu	hi	PSP
+chitegi	en	 N
+Rat	hi	 N
+k	hi	 X
+par	hi	 N
+ek	hi	 PRP
+ladke	hi	 N
+ko	hi	PSP
+salla	en	 N
+bolti	hi	 N
+h	hi	 PRT
+report	en	 V
+kra	hi	 N
+sunga	hi	 N
+Dunga	hi	 N
+
+
+Heheh	hi	 X
+Jb	hi	 N
+milna	hi	 N
+ho	hi	 V
+to	hi	 PRT
+bta	hi	 V
+diyo	hi	 V
+H	hi	 X
+naa	hi	 N
+Bahutosh	hi	 N
+k	hi	 X
+ghr	hi	 N
+hota	hi	 V
+hua	hi	 V
+mil	hi	 N
+lunga	hi	 N
+
+Aacha	hi	 N
+g	hi	 N
+yr	hi	 N
+time	en	 N
+ki	hi	 PRP
+bdi	hi	 V
+dikat	hi	 V
+hai	hi	 V
+Same	en	 J
+
+Anyways	en	 N
+Tu	hi	PSP
+suna	hi	 N
+or	hi	CC
+Kuch	hi	 SYM
+Bhai	hi	 N
+ka	hi	 N
+mn	hi	 N
+lg	hi	 N
+gya	hi	 N
+kaali	hi	 N
+khoobsurati	hi	 N
+me	hi	 PRP
+
+Haa	hi	 N
+lag	hi	 N
+hi	hi	 PRT
+gya	hi	 N
+Are	hi	 V
+Bohot	hi	 N
+kaala	hi	 N
+sona	hi	 X
+hai	hi	 V
+Jaha	hi	 N
+jao	hi	 N
+waha	hi	 N
+
+Mtlb	hi	 N
+Kaali	hi	 N
+pariyaan	hi	 N
+Black	en	 X
+beauty	hi	 N
+
+Ohhhh	hi	 PRT
+mai	hi	 N
+nai	hi	 V
+gyi	hi	 N
+Jaana	hi	 N
+b	hi	 V
+mat	hi	 N
+Pagal	hi	 N
+ho	hi	 V
+jygi	hi	 N
+
+Oh	hi	 PRT
+Hmm	hi	 X
+Nai	hi	 N
+itna	hi	 N
+b	hi	 V
+ni	hi	 PRT
+SAI	hi	 X
+h	hi	 X
+beta	hi	 N
+
+Kya	hi	 J
+sai	hi	 PRP
+hai	hi	 V
+re	hi	 N
+
+Gud	hi	 N
+mrn	hi	 N
+Gud	hi	 N
+mrng	hi	 N
+
+Ab	hi	 N
+noon	hi	 N
+ho	hi	 V
+raha	hi	 V
+ha	hi	 V
+Jab	hi	 X
+jago	hi	 N
+tab	hi	CC
+subah	hi	 N
+
+Oh	hi	 PRT
+Han	hi	 V
+Or	hi	 X
+kya	hi	 J
+kar	hi	 X
+ri	hi	 V
+hai	hi	 V
+
+Bs	hi	 V
+yr	hi	 N
+audit	hi	 N
+pe	hi	PSP
+h	hi	 X
+Kahe	hi	 N
+ke	hi	 PRP
+audit	hi	 J
+pe	hi	PSP
+
+Kec	hi	 J
+college	hi	 N
+
+Mohan	hi	 N
+naga	hi	 N
+Are	hi	 V
+kya	hi	 J
+kar	hi	 PRP
+ri	hi	 N
+h	hi	 PRT
+I	hi	 PRP
+mean	en	 V
+explain	hi	 V
+kar	hi	 X
+thoda	hi	 N
+
+Abe	hi	 V
+hr	hi	 N
+nd	hi	CC
+accounts	en	 V
+me	hi	 PRP
+checking	en	 V
+
+Nd	hi	 J
+labs	hi	 V
+store	en	 N
+me	hi	 PRP
+checking	en	 V
+
+Cash	hi	 N
+bank	hi	 N
+tax	hi	CC
+nd	hi	CC
+all	en	DT
+
+Hr	hi	 V
+me	hi	 PRP
+leave	en	 V
+theek	hi	 V
+hai	hi	 V
+ya	hi	 PRT
+nai	hi	 V
+
+Lab	hi	 V
+me	hi	 PRP
+items	en	 N
+ka	hi	 N
+rs	hi	 V
+sai	hi	 PRP
+hai	hi	 V
+ya	hi	 PRT
+nqi	hi	 N
+
+Nd	hi	 J
+al	hi	 N
+To	hi	PSP
+kec	hi	 PRP
+ne	hi	PSP
+allow	hi	 N
+kar	hi	 X
+diya	hi	 N
+tumhe	hi	 V
+
+Hum	hi	 X
+unke	hi	 N
+auditor	en	 J
+hai	hi	 V
+yr	hi	 N
+
+Unhone	hi	 N
+appoint	hi	 N
+kara	hi	 N
+ha	hi	 PRT
+Ohho	hi	 N
+Ye	hi	 PRP
+bat	hi	 X
+ha	hi	 PRT
+Wo	hi	 R
+CA	hi	 N
+wale	hi	 N
+students	en	 N
+ko	hi	PSP
+appoint	hi	 N
+karte	hi	 V
+hain	hi	 V
+
+Ha	hi	 PRT
+Gud	hi	 N
+
+Hnhi	hi	U
+
+Hnji	hi	 N
+Han	hi	 X
+g	hi	 N
+dasso	en	 N
+
+Ki	hi	 PRP
+dassa	hi	 N
+Kujh	hi	 X
+v	hi	 X
+das	hi	 N
+lae	hi	 V
+kudiye	hi	 N
+
+Are	hi	 V
+baalikay	hi	 N
+
+Ha	hi	 PRT
+balam	hi	 N
+Balak	hi	 X
+
+
+Abe	hi	 V
+main	hi	 N
+balam	hi	 N
+hu	hi	 N
+kya	hi	 J
+Galti	hi	 N
+
+Na	hi	 J
+g	hi	 N
+na	hi	 PRT
+Irade	univ	 N
+nake	en	 N
+na	hi	 PRT
+Nake	en	 N
+ha8	hi	 V
+
+Lag	hi	 V
+to	hi	PSP
+na	hi	 PRT
+Kya	hi	 N
+lag	hi	 V
+raha	hi	 V
+hai	hi	 V
+
+Beta	hi	 N
+balam	hi	 N
+Hi	hi	 PRP
+lag	hi	 V
+ra	hi	PSP
+hai	hi	 V
+Nah	hi	 J
+re	hi	 N
+
+Han	hi	 X
+Hi	hi	 PRP
+
+Hello	en	 J
+ji	hi	 N
+Chal	hi	 N
+Class	en	 V
+hai	hi	 V
+
+Heheh	hi	 X
+bye	hi	 V
+Happy	en	 J
+lohri	hi	 N
+Ram	univ	 N
+ram	univ	 X
+Bhai	hi	 N
+
+Agayeghaziabad	hi	U
+
+Ram	univ	 N
+ram	univ	 X
+ji	hi	 N
+
+Bhai	hi	 N
+decide	en	 N
+kro	hi	E
+
+To	hi	PSP
+sbhi	hi	 V
+milte	hi	 N
+h	hi	 X
+kbhi	hi	 N
+
+
+Han	hi	 X
+Bhai	hi	 N
+
+Bikull	hi	 J
+Haha	univ	 N
+Burger	hi	 N
+ek	hi	 PRP
+or	hi	CC
+bhukhe	hi	 N
+Bhut	hi	 N
+nainsaafi	hi	 N
+h	hi	 X
+
+Hahahaha	univ	 PRT
+
+Han	hi	 X
+Bhai	hi	 N
+esa	hi	 N
+Hi	hi	 PRP
+Kuch	hi	 X
+tha	hi	DT
+Haha	univ	 N
+Sahi	hi	 N
+h	hi	 X
+bhai	hi	 N
+But	en	CC
+mko	hi	 N
+b	hi	 V
+Burger	hi	 X
+psnd	hi	 N
+h	hi	 PRT
+re	hi	PSP
+Mko	hi	 V
+to	hi	PSP
+bulaya	ne	 V
+b	hi	 V
+nhi	hi	 N
+
+Are	hi	 V
+Yar	hi	E
+Ye	hi	 PRP
+bahutosh	hi	 N
+or	hi	CC
+vishal	hi	 J
+jab	hi	 N
+ek	hi	 PRP
+sath	univ	 N
+milte	hi	 V
+hain	hi	 V
+esa	hi	 N
+bada	hi	 N
+kam	hi	 X
+hota	hi	 V
+h	hi	 PRT
+Or	hi	 X
+uspe	hi	 N
+bhi	hi	 N
+mammi	hi	 N
+mujhe	hi	 N
+bahar	hi	 N
+jaane	hi	 N
+de	hi	 V
+or	hi	CC
+b	hi	 V
+nushkil	hi	 N
+Hmm	hi	 X
+Chal	hi	 V
+koi	hi	 PRP
+nhi	hi	 J
+bhai	hi	 N
+
+Bde	hi	 N
+log	hi	 N
+bhai	hi	 N
+bde	hi	 N
+
+
+Are	hi	 V
+Bhai	hi	 N
+ese	hi	 V
+na	hi	 PRT
+
+Milne	hi	 N
+ka	hi	 N
+plan	en	 V
+banaynge	hi	 N
+
+Tension	ne	 N
+na	hi	 PRT
+ke	hi	 PRP
+
+Mujhe	hi	 N
+lambi	hi	 N
+chutti	hi	 N
+OE	hi	 X
+aane	hi	 N
+de	hi	PSP
+
+Abhi	hi	 N
+to	hi	PSP
+main	hi	 N
+hafte	hi	 V
+bhar	hi	 N
+hi	hi	 PRT
+aaya	hi	 N
+hu	hi	 V
+
+Hmm	hi	U
+
+Koi	hi	 N
+nhi	hi	 V
+
+Hafta	hi	 J
+bht	hi	 V
+h	hi	 X
+bhai	hi	 N
+
+
+Milte	hi	 N
+h	hi	 PRT
+holi	hi	 N
+bad	hi	 J
+hi	hi	 PRT
+
+Han	hi	 X
+yar	hi	 PRT
+
+Or	hi	 X
+mere	hi	 V
+projects	en	 N
+bhi	hi	 N
+bohot	hi	 V
+
+Ohoo	univ	 PRT
+bhai	hi	 N
+
+
+Chal	hi	 J
+dekhiyo	hi	 V
+
+Tym	hi	 X
+nikal	hi	 J
+k	hi	 X
+bhai	hi	 N
+
+Isi	hi	 N
+week	en	 N
+me	hi	 PRP
+
+Lata	ne	 N
+b	hi	 V
+bol	hi	 X
+rhi	hi	 N
+thi	hi	 V
+bht	hi	 V
+din	hi	 V
+se	hi	 PRP
+
+Bhai	hi	 N
+nikalna	hi	 J
+padta	hi	 J
+hai	hi	 V
+warna	hi	 N
+mai	hi	 N
+To	hi	PSP
+bed	hi	 V
+se	hi	 PRP
+uthu	hi	 PRP
+na	hi	 PRT
+
+Hmm	hi	U
+
+Nikalna	hi	 N
+pdega	hi	 N
+tjhe	hi	 N
+kamine	hi	 N
+
+Kitna	hi	 N
+aalsi	hi	 N
+bnega	hi	 N
+
+
+Ek	hi	CC
+week	en	 N
+m	hi	 V
+b	hi	 V
+alsi	en	 N
+
+Are	hi	 V
+Bhai	hi	 N
+mammi	hi	 N
+pit	hi	 N
+pit	hi	 N
+k	hi	 X
+nahane	hi	 N
+k	hi	 X
+liye	hi	PSP
+bheja	hi	 N
+Haha	univ	 N
+Sahi	hi	 N
+kiya	hi	 N
+Tu	hi	PSP
+isi	hi	PSP
+layk	hi	 V
+h	hi	 PRT
+Is	hi	 V
+bar	hi	 V
+me	hi	 PRP
+to	hi	PSP
+aunty	en	 N
+k	hi	 X
+sath	univ	 N
+
+Hahahaha	univ	 PRT
+
+Or	hi	 X
+suba	hi	 N
+
+Suna	hi	 N
+Bs	hi	 V
+bhai	hi	 N
+Ghr	hi	 N
+pe	hi	PSP
+Mmy	hi	 N
+ki	hi	 PRP
+help	hi	 V
+
+Ohhoh	hi	 N
+Hrhe	hi	 N
+Aaja	hi	 N
+bhai	hi	 N
+Gujiya	hi	 N
+Mne	hi	 N
+bnayi	hi	 N
+h	hi	 X
+
+Same	en	 J
+here	en	 R
+bhai	hi	 N
+
+Word	en	 N
+to	hi	PSP
+word	en	 V
+
+
+Kha	hi	 N
+le	hi	 V
+tu	hi	PSP
+b	hi	 V
+Bilkul	hi	 N
+bhai	hi	 N
+Thodi	hi	 N
+or	hi	CC
+jada	hi	 N
+c	hi	 N
+bna	hi	 N
+
+Humbey	hi	 R
+or	hi	CC
+kya	hi	 J
+Tb	hi	 N
+khaunga	hi	 N
+Dher	en	 N
+sari	hi	 N
+
+Chhere	en	 R
+kag	hi	 V
+jange	hi	 N
+toe	hi	 N
+
+Lag	hi	 N
+Hrami	ne	 N
+
+
+Are	hi	 V
+Bhai	hi	 N
+badboo	hi	 N
+q	hi	 N
+faia	univ	 J
+raha	hi	 V
+hai	hi	 V
+
+Faila	hi	 N
+Bhai	hi	 N
+wo	hi	 V
+b	hi	 V
+spcl	hi	 N
+offer	hi	 N
+h	hi	 PRT
+Badbu	hi	 N
+b	hi	 V
+bs	hi	 N
+kallupura	en	 N
+walo	hi	 V
+k	hi	 X
+
+
+Kamine	hi	 N
+Haha	univ	 N
+
+May	hi	 V
+this	en	DT
+season	en	 N
+of	hi	PSP
+color	hi	 N
+bring	en	 V
+you	en	 PRP
+cheer	en	 J
+and	en	CC
+happiness	en	 V
+May	hi	 V
+the	en	DT
+colors	hi	 N
+of	hi	PSP
+the	en	DT
+Holi	hi	 N
+continues	en	 N
+to	hi	PSP
+illuminate	en	 V
+your	en	DT
+life	ne	 N
+and	en	CC
+
+guide	en	 N
+you	en	 PRP
+towards	hi	 V
+the	en	DT
+path	univ	 N
+of	hi	PSP
+success	en	 N
+Happy	en	 J
+Holi	hi	 N
+May	hi	 V
+god	hi	 N
+gift	hi	 N
+u	hi	 PRP
+all	en	DT
+the	en	DT
+colors	hi	 N
+of	hi	PSP
+life	ne	 N
+Colors	hi	 N
+of	hi	PSP
+joy	hi	 N
+Colors	hi	 N
+of	hi	PSP
+happiness	en	 N
+Colors	hi	 N
+of	hi	PSP
+friendship	en	 N
+Colors	hi	 N
+of	hi	PSP
+luv	hi	 N
+and	en	CC
+All	en	DT
+other	en	 J
+colors	hi	 N
+U	hi	 PRP
+want	en	 V
+to	hi	PSP
+paint	en	 V
+in	hi	PSP
+ur	hi	DT
+life	ne	 N
+Happy	en	 J
+holi	hi	 N
+Wishing	en	 V
+You	en	 PRP
+And	en	 V
+Your	en	DT
+Family	ne	 R
+A	hi	DT
+Very	en	 J
+Bright	en	 N
+Colourful	hi	 J
+And	en	CC
+
+Joyful	hi	 J
+Holi	hi	 N
+With	en	PSP
+Love	en	 N
+And	en	CC
+Best	en	 J
+Wishes	en	 N
+
+
+Hi	hi	 PRT
+bhayya	hi	 N
+
+Hanji	hi	U
+
+Janab	ne	U
+
+Bhaiyya	hi	 N
+iPhone	en	 N
+kitne	hi	 PRP
+ka	hi	 N
+liya	hi	 N
+aapne	hi	 PRP
+
+
+Bhai	hi	 N
+Black	en	 X
+Friday	en	 N
+ki	hi	 PRP
+deal	hi	 J
+mein	hi	 N
+mila	hi	 N
+Kaafi	hi	 N
+sastaa	en	 N
+
+Kitne	hi	 N
+mei	hi	 N
+mila	hi	 N
+bhayya	hi	 N
+
+Around	en	 N
+ka	hi	 N
+
+Phir	hi	 X
+bhi	hi	 N
+
+India	ne	 N
+mein	hi	 N
+around	en	PSP
+ka	hi	 N
+hai	hi	 V
+
+Phir	hi	 N
+se	hi	 PRP
+aayegi	hi	 PRP
+kya	hi	 J
+bhaiyya	hi	 N
+deal	hi	 J
+
+Hahaha	univ	 PRT
+
+Next	en	 J
+
+Haan	hi	 R
+shayad	hi	 N
+Jumia	hi	 N
+ki	hi	 PRP
+anniversary	en	 J
+acne	hi	 N
+wali	hi	 V
+hai	hi	 V
+To	hi	PSP
+shayad	hi	 V
+phir	hi	 SYM
+aaye	hi	 N
+sale	hi	 N
+
+Kise	hi	 J
+Lena	hi	 N
+hai	hi	 V
+
+Dost	hi	 J
+ne	hi	PSP
+pucha	hi	 N
+tha	hi	 X
+
+Hmm	hi	 PRT
+
+May	hi	 V
+be	hi	 V
+I	hi	 PRP
+heard	en	 V
+next	en	 J
+week	en	 N
+aayegi	hi	 N
+sale	hi	 N
+dubara	hi	 N
+
+Mac	hi	 N
+book	hi	 V
+air	hi	 X
+kitne	hi	 PRP
+lagegi	hi	 N
+bhayya	hi	 N
+
+But	en	CC
+not	en	 R
+like	en	PSP
+black	en	 J
+friday	en	 N
+
+May	hi	 V
+be	hi	 V
+the	en	DT
+discounts	en	 N
+are	hi	 V
+less	en	 V
+
+Acha	hi	 N
+
+MacBook	hi	 N
+Air	hi	DT
+pro	en	 V
+
+Mac	hi	 N
+book	hi	 V
+air	hi	E
+
+Pro	en	 N
+nahi	hi	 N
+bhayya	hi	 V
+
+
+Check	en	 V
+this	en	 PRP
+
+Bhaiyya	hi	 N
+air	hi	 X
+
+Bhaiyya	hi	 N
+rupees	ne	 N
+mei	hi	 PRP
+
+Bhai	hi	 N
+pata	hi	 J
+nahi	hi	 N
+
+I	hi	 PRP
+am	hi	 V
+not	en	 R
+a	hi	DT
+real	en	 J
+fanatic	hi	 N
+of	hi	PSP
+Apple	hi	 N
+
+Just	en	 R
+bought	en	 V
+this	en	DT
+phone	en	 N
+as	hi	PSP
+I	hi	 PRP
+got	en	 V
+a	hi	DT
+good	en	 J
+deal	hi	 N
+
+Thik	hi	 N
+h	hi	 PRT
+bhayya	hi	 N
+
+Divided	en	 V
+by	hi	PSP
+4	hi	PSP
+
+Thik	hi	 N
+h	hi	 PRT
+bhayya	hi	 N
+
+Aur	hi	 X
+aap	hi	 X
+kise	hi	 PRP
+ho	hi	 V
+
+Naira	hi	 N
+is	hi	 V
+approx	hi	 R
+against	en	PSP
+dollar	en	 N
+
+Bas	hi	 X
+mast	hi	 X
+
+Missing	en	 V
+family	ne	 N
+badly	hi	 R
+
+Ghar	hi	 N
+mein	hi	 N
+aaj	hi	 X
+shaadi	hi	 N
+hai	hi	 V
+
+
+
+Ayayyo	hi	U
+
+Kiski	hi	 N
+shadi	hi	 N
+h	hi	 X
+bhaiyya	hi	 N
+
+
+Behen	hi	 N
+ki	hi	 PRP
+shaadi	hi	 N
+and	en	CC
+M	hi	 V
+not	en	 R
+there	en	 R
+
+
+Bombay	hi	 N
+wale	hi	 N
+chachaji	hi	 N
+ki	hi	 PRP
+beti	hi	 PRP
+ki	hi	 PRP
+
+Acha	hi	 N
+bhaiyya	hi	 N
+
+Aap	hi	 N
+kab	hi	PSP
+aarahe	hi	 N
+ho	hi	 V
+
+I	hi	 PRP
+will	en	 V
+land	en	 V
+on	hi	PSP
+
+Morning	en	 N
+
