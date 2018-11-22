@@ -53,3 +53,10 @@ Documents using Weakly Supervised Methods
 Code-Mixed Social Media Text
 6) Kovida Nelakuditi, Radhika Mamidi, Part-of-Speech Tagging for Code mixed
 English-Telugu Social media data
+
+For any further queries contact
+- Pulkit Jaroli(8369545335) iit2016081@iiita.ac.in
+- Harshit Agarwal(73887576875) iit2016108@iiita.ac.in
+- Sominee Gupta(7983129771) ihm2016007@iiita.ac.in
+- Nistala Venkata Kameshwar Sharma(8839002133) ism2016005@iiita.ac.in
+- Saksham Singh(9161896720) iit2016090@iiita.ac.in
